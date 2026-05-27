@@ -15,7 +15,7 @@
    Java 8 · Spring Boot · Spring Security · 
    Spring Data JPA · Hibernate · PostgreSQL · Maven · Git
 
-🎓 MCA @ Manipal Academy of Higher Education (MAHE)
+🎓 Bsc(Computer Science) / Certified Full Stack Java Course
 
 📫 viraj0909@gmail.com
 🔗 linkedin.com/in/viraj-shinde09
