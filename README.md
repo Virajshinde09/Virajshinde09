@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Viraj Shinde 👋
 
-<!--
-**Virajshinde09/Virajshinde09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Backend Java Developer from Mumbai, India
 
-Here are some ideas to get you started:
+💡 Hands-on experience building RESTful APIs using 
+   Spring Boot 3.x, Spring Data JPA, and PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏗️ Built 2 full-stack applications with:
+   - Layered MVC architecture (Controller → Service → Repository)
+   - ORM-based persistence using Hibernate
+   - Spring Security for Auth & Authorization
+   - DTO patterns, Bean Validation, Exception Handling
+
+🔧 Tech Stack:
+   Java 8 · Spring Boot · Spring Security · 
+   Spring Data JPA · Hibernate · PostgreSQL · Maven · Git
+
+🎓 MCA @ Manipal Academy of Higher Education (MAHE)
+
+📫 viraj0909@gmail.com
+🔗 linkedin.com/in/viraj-shinde09
+
+💼 Open to Backend Java Developer roles
